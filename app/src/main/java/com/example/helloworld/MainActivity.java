@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 Log.d("MainActivity", "Button1 start");
-                textView.setText("WWW");
+                textView.setText("CCC");
             }
         });
     }
